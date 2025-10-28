@@ -1,1 +1,1 @@
-This is Djikstra's Algo
+This is Djikstra's Algorithm
